@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: rgb(177, 162, 162);
+    color: rgb(240, 243, 247);
+}
+
+/* Estilos del Menú de Navegación */
+.navbar {
+    background-color: gray;
+}
+.navbar .nav-link {
+    color: black;
+}
+
+.navbar .nav-link {
+    color: rgb(121, 123, 252);
+}
+
+/*Estilos de Targetas */
+.card {
+    padding: auto;
+    border: solid 5px black;
+}
+
+.card .btn {
+    background-color: darkgray;
+    color: white;
+}
+
+.card .btn:hover {
+    background-color: dimgrey;
+}
+
+.btn-primary {
+    background-color: beige;
+    border-color: darkgrey;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: bisque;
+}
+
+/*Estilos del Pie de Página */
+footer{
+    background-color: antiquewhite;
+    color: black;
+}
+
+
+
+
+
